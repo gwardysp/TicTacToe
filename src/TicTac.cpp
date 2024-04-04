@@ -44,7 +44,7 @@ void TicTac::onButtonClicked(int row, int col)
 
     if(checkWin(player))
     { 
-      dialog.reset(new Gtk::MessageDialog(*this, "FFF"));
+      dialog.reset(new Gtk::MessageDialog(*this, std::string(1, player) + " wins!"));
 
        
       dialog->set_hide_on_close(true);
@@ -60,7 +60,7 @@ void TicTac::onButtonClicked(int row, int col)
 
     if(checkDraw(player))
     {
-      dialog.reset(new Gtk::MessageDialog(*this, "FFF"));
+      dialog.reset(new Gtk::MessageDialog(*this, "It's a draw!"));
       
       dialog->set_hide_on_close(true);
       dialog->set_modal(true);
