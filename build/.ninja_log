@@ -1,6 +1,0 @@
-# ninja log v5
-7	2676	1712081651199789889	CMakeFiles/gtkTic.dir/src/TicTac.cpp.o	e0712eadae60c565
-7	2662	1712078038660357812	CMakeFiles/gtkTic.dir/src/main.cpp.o	94e9fbb3a841ddff
-2676	2891	1712081651411788855	gtkTic	12ce3ce525e1466b
-35	2831	1712251638185166457	CMakeFiles/gtkTic.dir/src/TicTac.cpp.o	e0712eadae60c565
-2831	3074	1712251638429164232	gtkTic	12ce3ce525e1466b

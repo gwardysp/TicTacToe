@@ -1,3 +1,0 @@
-/home/piotr/CPP_Foolery/gtkTic/build/CMakeFiles/gtkTic.dir
-/home/piotr/CPP_Foolery/gtkTic/build/CMakeFiles/edit_cache.dir
-/home/piotr/CPP_Foolery/gtkTic/build/CMakeFiles/rebuild_cache.dir
